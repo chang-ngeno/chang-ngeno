@@ -1,4 +1,24 @@
-### Hi there 👋
+# Daniel Chang'masa
+
+Currently learning and using [JHipster](https://jhipster.tech) in rewriting applications I did a while back.
+
+### Languages
+ - Java
+ - Python
+ - JavaScript
+
+### Frameworks
+ - Spring & Springboot
+ - ReactJS
+ - AngularJS
+ - NodeJS
+
+### Education
+ - Mathematics & Computer Sci. degree from Kenya
+ - Alison learning - websites creation and styling
+ - Coursera - JavaEE fundamentals
+ - Simplilearn - DevOps practices
+
 
 <!--
 **chang-ngeno/chang-ngeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
